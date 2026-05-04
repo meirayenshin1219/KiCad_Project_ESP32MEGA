@@ -16927,7 +16927,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "11f5ab98-a620-47d0-8261-53f59b2985c2")
-		(property "Sheetname" "Untitled Sheet"
+		(property "Sheetname" "Power"
 			(at 12.7 335.8384 0)
 			(effects
 				(font
@@ -16936,7 +16936,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "Power.kicad_sch"
 			(at 12.7 580.9746 0)
 			(effects
 				(font
@@ -16946,7 +16946,7 @@
 			)
 		)
 		(instances
-			(project "test_0313"
+			(project "Main"
 				(path "/a3735c8f-9a58-4251-a332-2d5e31730472"
 					(page "2")
 				)
